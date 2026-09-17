@@ -41,7 +41,7 @@ Full sources are included in the Tableau dashboard.
 - FIXED Level of Detail (LOD) expressions
 - Interactive filters
 - Highlight actions
-- Parameters / date filtering
+- Date filtering
 - Data visualisation and dashboard design
 - Integration of multiple external datasets
 
