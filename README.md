@@ -8,7 +8,7 @@ The project explores the factors that may influence my film choices, including I
 
 ![Dashboard title](film_git_pic_1.png)
 
-[View the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/callum.neeve/viz/my_film_dashboard/Dashboard)
+[View the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/callum.neeve/viz/FilmWatchingAnalysisv2/Dashboard)
 
 
 ## Questions explored
